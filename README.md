@@ -1,6 +1,6 @@
 # Welcome to My Coding Space
 
-![coverScreen](./images/coverScreen.gif)
+![headerGif](./coverScreen.gif)
 
 <div align="center">
 
