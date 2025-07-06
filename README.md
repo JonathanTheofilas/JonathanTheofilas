@@ -17,11 +17,10 @@ Hey there! I'm **Jonathan Theofilas**, a Computer Science student at RMIT launch
 const jonathan = {
     name: "Jonathan Theofilas",
     location: "Melbourne, Australia 🇦🇺",
-    education: "RMIT - Computer Science (Class of 2025)",
+    education: "RMIT - Bachelor of Computer Science (Class of 2025)",
     currentMission: "Building awesome projects while finishing uni",
     codingYears: 4,
-    favGame: "Super Mario Galaxy",
-    powerStars: "242👑👑"
+    saveFile: "242👑👑"
 };
 ```
 
@@ -74,10 +73,10 @@ const jonathan = {
 - **📊 Data Intelligence Project** - Python-powered analytics achieving 92% prediction accuracy
 
 ### 🚀 What I'm Working On
-- 🎓 Finishing my final year at RMIT (almost there!)
+- 🎓 Finishing my final year at RMIT 
 - 🌐 Exploring more advanced AWS services and serverless architectures
 - 📱 Diving deeper into AR/VR development
-- 🤝 Contributing to open source projects and working on my own projects as well
+- 🤝 Contributing to open source projects and working on my own projects and interests
 
 
 ## 🏆 Achievement Badges & Recognition
