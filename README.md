@@ -69,6 +69,7 @@ const jonathan = {
 ### ⭐ Major Achievements Unlocked
 - **🎵 [AWS Cloud Music Platform](https://github.com/JonathanTheofilas/AWS-Music-Subscription-System.git)** - Full-stack music subscription system with DynamoDB, S3, and advanced search
 - **🤖 GameSight AR Visualizer** - Augmented reality app for Meta Quest 3s helping RMIT RoboCup team
+- **🔤 [BPE Tokenizer](https://github.com/JonathanTheofilas/BPE-Tokeniser.git)** - Educational implementation of Byte Pair Encoding with 1000 merge iterations on a diverse multilingual corpus
 - **🏠 [Property Rental Web App](https://github.com/JonathanTheofilas/AirBnB-Clone---Property-Booking-Platform.git)** - Node.js/MongoDB full-stack application handling 10,000+ listings
 - **📊 Data Intelligence Project** - Python-powered analytics achieving 92% prediction accuracy
 
@@ -76,8 +77,9 @@ const jonathan = {
 - 🎓 Finishing my final year at RMIT 
 - 🌐 Exploring more advanced AWS services and serverless architectures
 - 📱 Diving deeper into AR/VR development
+- 🤖 Implementing more NLP algorithms and machine learning projects
 - 🤝 Contributing to open source projects
-- 📈 Developing my intrests in personal projects
+- 📈 Developing my interests in personal projects
 
 
 ## 🏆 Achievement Badges & Recognition
@@ -85,6 +87,7 @@ const jonathan = {
 - 🥇 **People's Choice Award** - Boeing Technical Hackathon (November 2022)
 - 🎯 **4+ Years** of Python development experience
 - ☁️ **AWS Advanced** - Multiple services mastered
+- 🔤 **NLP Explorer** - Building tokenisation algorithms from scratch
 - ☕ **5+ Years** managing high-pressure café operations (great for debugging skills!)
 
 ---
