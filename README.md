@@ -68,8 +68,8 @@ const jonathan = {
 
 ### ⭐ Major Achievements Unlocked
 - **🎵 [AWS Cloud Music Platform](https://github.com/JonathanTheofilas/AWS-Music-Subscription-System.git)** - Full-stack music subscription system with DynamoDB, S3, and advanced search
-- **🤖 GameSight AR Visualizer** - Augmented reality app for Meta Quest 3s helping RMIT RoboCup team
-- **🔤 [BPE Tokenizer](https://github.com/JonathanTheofilas/BPE-Tokeniser.git)** - Educational implementation of Byte Pair Encoding with 1000 merge iterations on a diverse multilingual corpus
+- **🤖 GameSight AR Visualiser** - Augmented reality app for Meta Quest 3s helping RMIT RoboCup team
+- **🔤 [BPE Tokeniser](https://github.com/JonathanTheofilas/BPE-Tokeniser.git)** - Educational implementation of Byte Pair Encoding with 1000 merge iterations on a diverse multilingual corpus
 - **🏠 [Property Rental Web App](https://github.com/JonathanTheofilas/AirBnB-Clone---Property-Booking-Platform.git)** - Node.js/MongoDB full-stack application handling 10,000+ listings
 - **📊 Data Intelligence Project** - Python-powered analytics achieving 92% prediction accuracy
 
