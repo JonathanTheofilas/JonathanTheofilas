@@ -71,6 +71,7 @@ const jonathan = {
 - **🤖 GameSight AR Visualiser** - Augmented reality app for Meta Quest 3s helping RMIT RoboCup team
 - **🔤 [BPE Tokeniser](https://github.com/JonathanTheofilas/BPE-Tokeniser.git)** - Educational implementation of Byte Pair Encoding with 1000 merge iterations on a diverse multilingual corpus
 - **🏠 [Property Rental Web App](https://github.com/JonathanTheofilas/AirBnB-Clone---Property-Booking-Platform.git)** - Node.js/MongoDB full-stack application handling 10,000+ listings
+- **🐜 [Langton’s Bug Farm](https://github.com/JonathanTheofilas/Langtons-Bug-Farm.git)** – Advanced cellular automata simulator featuring Langton’s Ant, Turmites, and custom rule-based Turing machines with real-time visualisation and fully interactive controls.
 - **📊 Data Intelligence Project** - Python-powered analytics achieving 92% prediction accuracy
 
 ### 🚀 What I'm Working On
