@@ -18,7 +18,7 @@ const jonathan = {
     name: "Jonathan Theofilas",
     location: "Melbourne, Australia 🇦🇺",
     education: "RMIT - Bachelor of Computer Science (Class of 2025)",
-    currentMission: "Building awesome projects while finishing uni",
+    currentMission: "Building awesome projects and upgrading my skills",
     codingYears: 4,
     saveFile: "242👑👑"
 };
@@ -35,6 +35,8 @@ const jonathan = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### ☁️ Cloud Universe (AWS Galaxy)
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
@@ -54,6 +56,7 @@ const jonathan = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🛠️ Developer Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,9 +72,10 @@ const jonathan = {
 ### ⭐ Major Achievements Unlocked
 - **🎵 [AWS Cloud Music Platform](https://github.com/JonathanTheofilas/AWS-Music-Subscription-System.git)** - Full-stack music subscription system with DynamoDB, S3, and advanced search
 - **🤖 GameSight AR Visualiser** - Augmented reality app for Meta Quest 3s helping RMIT RoboCup team
+- **🗄️ [SQLite Clone](https://github.com/JonathanTheofilas/sqlite-clone.git)** - Building a complete database engine from scratch in C, implementing B-tree storage, SQL parsing, and transaction handling
 - **🔤 [BPE Tokeniser](https://github.com/JonathanTheofilas/BPE-Tokeniser.git)** - Educational implementation of Byte Pair Encoding with 1000 merge iterations on a diverse multilingual corpus
 - **🏠 [Property Rental Web App](https://github.com/JonathanTheofilas/AirBnB-Clone---Property-Booking-Platform.git)** - Node.js/MongoDB full-stack application handling 10,000+ listings
-- **🐜 [Langton’s Bug Farm](https://github.com/JonathanTheofilas/Langtons-Bug-Farm.git)** – Advanced cellular automata simulator featuring Langton’s Ant, Turmites, and custom rule-based Turing machines with real-time visualisation and fully interactive controls.
+- **🐜 [Langton's Bug Farm](https://github.com/JonathanTheofilas/Langtons-Bug-Farm.git)** – Advanced cellular automata simulator featuring Langton's Ant, Turmites, and custom rule-based Turing machines with real-time visualisation and fully interactive controls.
 - **📊 Data Intelligence Project** - Python-powered analytics achieving 92% prediction accuracy
 
 ### 🚀 What I'm Working On
@@ -89,6 +93,7 @@ const jonathan = {
 - 🎯 **4+ Years** of Python development experience
 - ☁️ **AWS Advanced** - Multiple services mastered
 - 🔤 **NLP Explorer** - Building tokenisation algorithms from scratch
+- 🗄️ **Database Builder** - Crafting SQL engines from the ground up
 - ☕ **5+ Years** managing high-pressure café operations (great for debugging skills!)
 
 ---
