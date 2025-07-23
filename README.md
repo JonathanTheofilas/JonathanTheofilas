@@ -67,28 +67,28 @@ const jonathan = {
 
 ---
 
-## 🌠 Current Missions & Projects
+## 🌠 Current Missions & Projects 
 
-### ⭐ Major Achievements Unlocked
-- **🎵 [AWS Cloud Music Platform](https://github.com/JonathanTheofilas/AWS-Music-Subscription-System.git)** - Full-stack music subscription system with DynamoDB, S3, and advanced search
-- **🤖 GameSight AR Visualiser** - Augmented reality app for Meta Quest 3s helping RMIT RoboCup team
+### 🚀 What I'm Working On  
 - **🗄️ [SQLite Clone](https://github.com/JonathanTheofilas/sqlite-clone.git)** - Building a complete database engine from scratch in C, implementing B-tree storage, SQL parsing, and transaction handling
 - **🔤 [BPE Tokeniser](https://github.com/JonathanTheofilas/BPE-Tokeniser.git)** - Educational implementation of Byte Pair Encoding with 1000 merge iterations on a diverse multilingual corpus
-- **🏠 [Property Rental Web App](https://github.com/JonathanTheofilas/AirBnB-Clone---Property-Booking-Platform.git)** - Node.js/MongoDB full-stack application handling 10,000+ listings
 - **🐜 [Langton's Bug Farm](https://github.com/JonathanTheofilas/Langtons-Bug-Farm.git)** – Advanced cellular automata simulator featuring Langton's Ant, Turmites, and custom rule-based Turing machines with real-time visualisation and fully interactive controls.
+
+### 🛠️ What I've Built
+- **🎵 [AWS Cloud Music Platform](https://github.com/JonathanTheofilas/AWS-Music-Subscription-System.git)** - Full-stack music subscription system with DynamoDB, S3, and advanced search
+- **🤖 GameSight AR Visualiser** - Augmented reality app for Meta Quest 3s helping RMIT RoboCup team
+- **🏠 [Property Rental Web App](https://github.com/JonathanTheofilas/AirBnB-Clone---Property-Booking-Platform.git)** - Node.js/MongoDB full-stack application handling 10,000+ listings
 - **📊 Data Intelligence Project** - Python-powered analytics achieving 92% prediction accuracy
 
-### 🚀 What I'm Working On
-- 🎓 Finishing my final year at RMIT 
+### ⭐ Major Achievements Unlocked
 - 🌐 Exploring more advanced AWS services and serverless architectures
 - 📱 Diving deeper into AR/VR development
 - 🤖 Implementing more NLP algorithms and machine learning projects
 - 🤝 Contributing to open source projects
 - 📈 Developing my interests in personal projects
 
-
 ## 🏆 Achievement Badges & Recognition
-
+- 🎓 **Finished my final year at RMIT** - Bachelor of Computer Science (July 2025)
 - 🥇 **People's Choice Award** - Boeing Technical Hackathon (November 2022)
 - 🎯 **4+ Years** of Python development experience
 - ☁️ **AWS Advanced** - Multiple services mastered
