@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm **Jonathan Theofilas**, a Computer Science student at RMIT launching into my final year (graduating June 2025). When I'm not exploring new repositories, you'll find me working on cloud architectures, building AR applications, or building personal projects and interests to develop my skills. 
+Hey there! I'm Jonathan Theofilas, a recent Computer Science graduate from RMIT (graduated June 2025). When I'm not exploring new repositories, you'll find me working on cloud architectures, building AR applications, or developing personal projects to continue honing my skills and exploring new technologies.
 
 
 ```javascript
