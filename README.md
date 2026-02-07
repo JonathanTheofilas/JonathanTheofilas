@@ -5,12 +5,15 @@
 *Welcome, wanderer. Browse the shelves. Each book tells a different story.*
 
 ```
-    ________  ________  ________  ________  ________  ________  ________
-   /        \/        \/        \/        \/        \/        \/        \
-  / CHAPTERS/ THE     / SYNTAX  / THE     / THE     / GUEST   / THE    /
- / & VERSES/ LINKED  / & STACKS/ ARCHIVES/ BUILDER'S/ BOOK    / CARD   /
-/  (About) /  INN    / (Tech)  /(Projects/ JOURNAL  /         /CATALOGUE
-/_________ /________/_________ /________/__(WIP)___/_________ /________/
+      __...--~~~~~-._   _.-~~~~~--...__
+     //               `V'               \\ 
+     //      Welcome     |     reader      \\ 
+     //__...--~~~~~~-._  |  _.-~~~~~~--...__\\ 
+    //__.....----~~~~._\ | /_.~~~~----.....__\\
+    ====================\\|//====================
+    `---`
+
+
 ```
 
 </div>
