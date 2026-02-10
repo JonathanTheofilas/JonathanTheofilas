@@ -49,8 +49,7 @@ I've spent 5+ years writing Python, built full-stack systems on AWS, won a Peopl
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/The_Linked_Inn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-theofilas-9454732b7)
-[![GitHub](https://img.shields.io/badge/The_Library-100000?style=for-the-badge&logo=github)](https://github.com/JonathanTheofilas)
-[![Email](https://img.shields.io/badge/Email-JTheofilas24%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:JTheofilas24@gmail.com)
+
 
 </div>
 
